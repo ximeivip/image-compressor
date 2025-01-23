@@ -1,0 +1,6 @@
+{
+    "maxFileSize": 10485760,
+    "supportedFormats": ["image/jpeg", "image/png", "image/gif"],
+    "defaultQuality": 80,
+    "version": "1.0.0"
+} 
